@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 2000px;
+    background-size: 100px;
+}
+#f1 {
+    width: 750px;
+    height: 100vh;
+    background: white;
+}
+#f2 {
+    width: 750px;
+height: 100vh;
+background: white;
+
+}
